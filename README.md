@@ -18,4 +18,6 @@
 
 <h4>
   Rodar a aplicação:
+  <br>
+  $ python transform.py
 </h4>
